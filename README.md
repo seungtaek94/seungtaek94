@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Seungtaek94's github stats](https://github-readme-stats.vercel.app/api?username=seungtaek94)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=seungtaek94&show_icons=true&count_private=true&theme=dracula)
 
 <!--
 **seungtaek94/seungtaek94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
