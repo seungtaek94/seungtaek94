@@ -15,7 +15,7 @@
 
 <div align=center>
   
-[![Notion Badge](https://img.shields.io/badge/-Who_Am_I-000000?logo=Notion)](https://www.notion.so/SeungTaek-Kim-a5fcba8af40047ffbac8ffe4245beb79)
+[![Notion Badge](https://img.shields.io/badge/-Who_Am_I-000000?logo=Notion)](https://calico-bottle-822.notion.site/SeungTaek-Kim-a5fcba8af40047ffbac8ffe4245beb79)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://blog-st.tistory.com/)](https://blog-st.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungtaek.kim.94@gmail.com)](mailto:seungtaek.kim.94@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seungtaek__/)](https://www.instagram.com/seungtaek__/) 
