@@ -1,9 +1,3 @@
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/56434476/126870823-5d88c970-8813-4877-a23d-38b855e3fbe0.gif" style="display:block; margin: 0 auto"></a>
-
-</div>
-
 ### Machine Learning Research Engineer
 - ML Research Engineer in transportation control and management industry
   - Intelligent Transportation & Advanced Traffic Management System
