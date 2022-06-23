@@ -9,6 +9,7 @@
 
 <div align=center>
   
+[![LinkedIN Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seungtaek-kim-31031a231/)
 [![Notion Badge](https://img.shields.io/badge/-Who_Am_I-000000?logo=Notion)](https://calico-bottle-822.notion.site/SeungTaek-Kim-a5fcba8af40047ffbac8ffe4245beb79)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://medium.com/@seungtaek.kim)](https://medium.com/@seungtaek.kim)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seungtaek.kim.94@gmail.com)](mailto:seungtaek.kim.94@gmail.com)
