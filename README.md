@@ -5,7 +5,8 @@
 ### Interest in..
 - Computer Vision
 - On device inference
-- MLops
+- Inference Engine
+- CUDA, CUDNN
 
 <div align=center>
   
